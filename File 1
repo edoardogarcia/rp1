@@ -1,0 +1,4 @@
+conda --version
+
+git setup --global user.name edoardogarcia
+git setup --global user.email emilio.garciaflores@mail.utoronto.ca
